@@ -1,12 +1,7 @@
 # ¡Hola, soy Andres Nieves! 👋
-
-<table>
-  <tr>
-    <td width="150" align="center" style="border:none !important;">
-      <img width="200" height="200" alt="Logo fondo negro" src="https://github.com/user-attachments/assets/0e414c89-e156-4ec8-b1f1-3e9e0348d637" />  
-    </td>
-    <td align="left" style="border:none !important;">
-      <h2><em>🚀 Full Stack Developer</em> | <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" height="20"/> & <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="20"/> Specialist | APIs Escalables</h2>
+<!--<img inline width="40" height="40" alt="Logo fondo negro" src="https://github.com/user-attachments/assets/0e414c89-e156-4ec8-b1f1-3e9e0348d637" />  -->
+<div>
+    <h2><em>🚀 Full Stack Developer</em> | <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" height="20"/> & <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="20"/> Specialist | APIs Escalables</h2>
       <p>✨ <strong>Transformo ideas en sistemas robustos</strong> con <code>código limpio</code> y soluciones técnicas innovadoras</p>
       <p>🔥 <em>Apasionado por arquitecturas escalables, integraciones complejas y automatizaciones inteligentes</em></p>
       <p>
@@ -15,6 +10,4 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
       </p>
-    </td>
-  </tr>
-</table>
+</div>
