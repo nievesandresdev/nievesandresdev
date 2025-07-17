@@ -1,9 +1,10 @@
 ## Hi there 👋
-
+<img width="1024" height="1024" alt="Logo fondo negro" src="https://github.com/user-attachments/assets/0e414c89-e156-4ec8-b1f1-3e9e0348d637" />
 <!--
 **nievesandresdev/nievesandresdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img width="1024" height="1024" alt="Logo fondo negro" src="https://github.com/user-attachments/assets/0e414c89-e156-4ec8-b1f1-3e9e0348d637" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
