@@ -4,7 +4,7 @@
 </div>
 <div>
     <h2><em>🚀 Full Stack Developer</em> | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="20"/>
- | <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" height="20"/> | <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" height="20"/> | <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="20"/> Specialist | Desarrollo Escalable</h2>
+ | <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" height="20"/> | <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" height="20"/> | <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="20"/> | Desarrollo Escalable</h2>
       <p>✨ <strong>Transformo ideas en sistemas robustos</strong> con <code>código limpio</code> y soluciones técnicas innovadoras</p>
       <p>🔥 <em>Apasionado por arquitecturas escalables, integraciones complejas y automatizaciones inteligentes</em></p>
       <p>
